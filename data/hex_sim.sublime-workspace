@@ -1,0 +1,1726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"has",
+				"has_sim"
+			],
+			[
+				"df_",
+				"df_all"
+			],
+			[
+				"df",
+				"df_temp"
+			],
+			[
+				"modle",
+				"model_mer_pca_max"
+			],
+			[
+				"mer",
+				"model_mer_nop"
+			],
+			[
+				"model_mer_max",
+				"model_mer_max_nop"
+			],
+			[
+				"mode",
+				"model_mer_max_nop"
+			],
+			[
+				"model",
+				"model_mer_nop"
+			],
+			[
+				"cont",
+				"cont_mat"
+			],
+			[
+				"tax",
+				"tax_rt_means"
+			],
+			[
+				"no_",
+				"no_base"
+			],
+			[
+				"triad",
+				"triad_goes"
+			],
+			[
+				"mean",
+				"mean_df"
+			],
+			[
+				"ex",
+				"exclude_non_native"
+			],
+			[
+				"lang",
+				"lang_data"
+			],
+			[
+				"lan",
+				"lang_data"
+			],
+			[
+				"sexte",
+				"sextet_rand"
+			],
+			[
+				"n",
+				"n_table"
+			],
+			[
+				"scale",
+				"scale_alpha_continuous"
+			],
+			[
+				"binom",
+				"binom_diff"
+			],
+			[
+				"tri",
+				"trial_data"
+			],
+			[
+				"bin",
+				"binom_diff"
+			],
+			[
+				"trial",
+				"trial_data"
+			],
+			[
+				"hex",
+				"hexsim_2016-04-20"
+			],
+			[
+				"data",
+				"datafile"
+			],
+			[
+				"te",
+				"temp_df"
+			],
+			[
+				"tr",
+				"trial_data"
+			],
+			[
+				"rt",
+				"rt_cond_plot"
+			],
+			[
+				"the",
+				"the_sel"
+			],
+			[
+				"unr_",
+				"unr_unr_sel"
+			],
+			[
+				"unt",
+				"unr_tax_sel"
+			],
+			[
+				"unr",
+				"unr_sel"
+			],
+			[
+				"cond_plot",
+				"cond_plot_unr"
+			],
+			[
+				"tx",
+				"tix_means"
+			],
+			[
+				"out",
+				"out_activation"
+			],
+			[
+				"outpu",
+				"output_activations"
+			],
+			[
+				"target",
+				"target_activation"
+			],
+			[
+				"num",
+				"num_feats"
+			],
+			[
+				"gen",
+				"gen_dis"
+			],
+			[
+				"sam",
+				"sample_a"
+			],
+			[
+				"effect",
+				"effect_fnc"
+			],
+			[
+				"sd",
+				"sd_pooled"
+			],
+			[
+				"two",
+				"two_sample_ttest"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"edu",
+				"edu"
+			],
+			[
+				"read",
+				"read_data"
+			],
+			[
+				"ot",
+				"out_wts"
+			],
+			[
+				"wts",
+				"wts_list"
+			],
+			[
+				"get",
+				"get_wts"
+			],
+			[
+				"hi",
+				"hid_activation"
+			],
+			[
+				"hid",
+				"hid_activation_raw"
+			],
+			[
+				"outp",
+				"output_activations"
+			],
+			[
+				"ins",
+				"ins_w_bias"
+			],
+			[
+				"test",
+				"test_1_plot"
+			],
+			[
+				"Chick",
+				"ChickWeight"
+			],
+			[
+				"top",
+				"top_n_bot"
+			],
+			[
+				"mc",
+				"mc_score"
+			],
+			[
+				"fb",
+				"fb_score_temp"
+			],
+			[
+				"idx",
+				"idx_fb"
+			],
+			[
+				"re",
+				"reconcile_matches"
+			],
+			[
+				"name",
+				"name_matches"
+			],
+			[
+				"pro",
+				"prob_names"
+			],
+			[
+				"all",
+				"all_data"
+			],
+			[
+				"unique",
+				"unique_prob_idx"
+			],
+			[
+				"uniq",
+				"unique_prob_idx"
+			],
+			[
+				"first",
+				"first_names_cleaner"
+			],
+			[
+				"d",
+				"df_mc_clean"
+			],
+			[
+				"df_mc",
+				"df_mc_clean"
+			],
+			[
+				"names",
+				"names_list"
+			],
+			[
+				"nam",
+				"names_list"
+			],
+			[
+				"cond",
+				"cond_plot"
+			],
+			[
+				"lo",
+				"lo_sample_mean"
+			],
+			[
+				"netw",
+				"networth_sample"
+			],
+			[
+				"agr",
+				"agegroup"
+			],
+			[
+				"networht",
+				"NETWORTH"
+			],
+			[
+				"age",
+				"agegroup"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"rw",
+				"rw_samples_mean"
+			],
+			[
+				"rw_",
+				"rw_diff"
+			],
+			[
+				"Com",
+				"Combgroup_file"
+			],
+			[
+				"Combgroup_",
+				"‘Combgroup_file’"
+			],
+			[
+				"comb",
+				"Combgroup"
+			],
+			[
+				"second",
+				"second_model_predict"
+			],
+			[
+				"fir",
+				"first_model_predict"
+			],
+			[
+				"mo",
+				"model_1"
+			],
+			[
+				"Corr",
+				"CorrectRT2"
+			],
+			[
+				"Corret",
+				"CorrectRT2"
+			],
+			[
+				"Cor",
+				"CorrectRT1"
+			],
+			[
+				"clean",
+				"clean_data_filename"
+			],
+			[
+				"cle",
+				"clean_data_filename"
+			],
+			[
+				"th",
+				"the_sel"
+			],
+			[
+				"selty",
+				"seltype1"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"sel",
+				"seltype1"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"com",
+				"complete_datalist"
+			],
+			[
+				"C",
+				"CorrectRT2"
+			],
+			[
+				"corr",
+				"CorrectRT1"
+			],
+			[
+				"cor",
+				"CorrectRT1"
+			],
+			[
+				"outlie",
+				"outlier_vals"
+			],
+			[
+				"Correct",
+				"CorrectRT1"
+			],
+			[
+				"Corre",
+				"CorrectRT1"
+			],
+			[
+				"outlier",
+				"outlierEdu"
+			],
+			[
+				"ou",
+				"outlierEdu"
+			],
+			[
+				"Educ",
+				"Education"
+			],
+			[
+				"A",
+				"AgricultureL"
+			],
+			[
+				"agricult",
+				"AgricultureL"
+			],
+			[
+				"ses",
+				"sesExtreme"
+			],
+			[
+				"S",
+				"SocioEconomicStatus"
+			],
+			[
+				"sextet",
+				"sextet_base"
+			],
+			[
+				"butt",
+				"button_pos"
+			],
+			[
+				"sh",
+				"shuffler"
+			],
+			[
+				"button",
+				"button_text"
+			],
+			[
+				"fill",
+				"fill_colors"
+			],
+			[
+				"draw",
+				"draw_all"
+			],
+			[
+				"init",
+				"init_button_color"
+			],
+			[
+				"theta",
+				"thetas"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"var",
+				"var_cov_mat"
+			],
+			[
+				"va",
+				"var_cov_mat"
+			],
+			[
+				"mat",
+				"mat_names"
+			],
+			[
+				"matr",
+				"matrix3"
+			],
+			[
+				"prima",
+				"primary_model"
+			],
+			[
+				"primary",
+				"primary_coefs"
+			],
+			[
+				"y",
+				"ylim"
+			],
+			[
+				"type",
+				"type4model"
+			],
+			[
+				"classify",
+				"classify_eg_data2"
+			],
+			[
+				"classify_eg",
+				"classify_eg_data2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hex_sim_analysis.r",
+			"settings":
+			{
+				"buffer_size": 12187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/garre/Dropbox/aa projects/choootooo/choootooo/data/ct_viz_code.r",
+			"settings":
+			{
+				"buffer_size": 11873,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\nsetwd('C:/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/5.6.16')\n\nlibrary(lmerTest)\nlibrary(ggplot2)\n\ndf <- read.csv('hexsim_2016-05-08.csv')\n\nstr(df)\n\n### sample word sets as a demo\n\nn_table <- with(df, tapply(pid, cond, FUN = function(x) length(unique(x))))\ncat(paste0('\\nTotal Subjects = ', sum(n_table)),'\\n')\nprint(cbind(n = n_table, aggregate(tax_sel ~ cond, mean, data = df))[-2])\ncat('\\n')\n\nqqnorm(aggregate(tax_sel ~ base, mean, data = df)$tax_sel, main = 'Taxonomic Responding by Word Set')\nqqline(aggregate(tax_sel ~ base, mean, data = df)$tax_sel)\n\nqqnorm(aggregate(rt ~ base, mean, data = df)$rt, main = 'RT by Word Set')\nqqline(aggregate(rt ~ base, mean, data = df)$rt)\n\nqqnorm(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel, main = 'Taxonomic Responding by Participant')\nqqline(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel)\n\nqqnorm(aggregate(rt ~ pid, mean, data = df)$rt, main = 'RT by Participant')\nqqline(aggregate(rt ~ pid, mean, data = df)$rt)\n\ndf_neo <- subset(df, native_eng == 'yes') \n\nn_table_neo <- with(df_neo, tapply(pid, cond, FUN = function(x) length(unique(x))))\ncat(paste0('\\nTotal Subjects = ', sum(n_table_neo)),'\\n')\nprint(cbind(n = n_table_neo, aggregate(tax_sel ~ cond, mean, data = df_neo))[-2])\ncat('\\n')\n\nqqnorm(aggregate(tax_sel ~ base, mean, data = df_neo)$tax_sel, main = 'Taxonomic Responding by Word Set - NEO')\nqqline(aggregate(tax_sel ~ base, mean, data = df_neo)$tax_sel)\n\nqqnorm(aggregate(rt ~ base, mean, data = df_neo)$rt, main = 'RT by Word Set - NEO')\nqqline(aggregate(rt ~ base, mean, data = df_neo)$rt)\n\nqqnorm(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel, main = 'Taxonomic Responding by Participant - NEO')\nqqline(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel)\n\nplot(density(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel), main = 'Taxonomic Responding Density')\n\nqqnorm(aggregate(rt ~ pid, median, data = df_neo)$rt, main = 'RT by Participant - NEO')\nqqline(aggregate(rt ~ pid, median, data = df_neo)$rt)\n\ndf_temp <- aggregate(tax_sel ~ cond + base, mean, data = df_neo)\ndf_temp <- cbind(df_temp, rt_med = aggregate(rt ~ cond + base, median, data = df_neo)[,3])\n\npar(mfrow = c(3, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$tax_sel, main = paste0('Taxonomic Responding: ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$tax_sel)\n}\n\npar(mfrow = c(3, 2))\nfor (condition in levels(df_temp$cond)){\n  plot(density(df_temp[df_temp$cond == condition,]$tax_sel), main = paste0('Taxonomic Density: ', condition))\n}\n\npar(mfrow = c(3, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$rt, main = paste0('Response Time (sec.): ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$rt)\n}\n\npar(mfrow = c(3, 2))\nfor (condition in levels(df_temp$cond)){\n   plot(density(df_temp[df_temp$cond == condition,]$rt), main = paste0('Taxonomic Density: ', condition))\n}\n\n(cont_mat <- contrasts(df_neo$cond))\n\nmodel <- glm(tax_sel ~ cond, data = df_neo, family = binomial)\nsummary(model)\n\n\n(contrasts(df_neo$cond) <- cont_mat)\n\nmodel <- glm(tax_sel ~ cond + trial, data = df_neo, family = binomial)\nsummary(model)\n\nmodel_mer <- glmer(tax_sel ~ cond + trial + (1|pid) + (1|base), family = binomial, data = df_neo)\nsummary(model_mer)\n\n\ntax_rt_means <- colMeans(df[,c('tax_sel', 'rt')])\ns <- cov(df[,c('tax_sel', 'rt')])\n\nplot(qchisq(seq(length = nrow(df), .0001, .999), df = 4),\n  sort(df$gen_dis), main = 'Social Questionnaire Scores',\n  xlab = expression(paste(chi^2, \" Quantile\")),\n  ylab = \"Generalized Distance\")\nabline(a = 0, b = 1, col = \"red\")\n\nbeep(2); Sys.sleep(.5); beep(2); Sys.sleep(.5); beep(2);",
+			"file": "hex_sim+stats+III.r",
+			"file_size": 3724,
+			"file_write_time": 131073028454973022,
+			"settings":
+			{
+				"buffer_size": 3683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nsetwd('C:/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/5.6.16')\n\nlibrary(lmerTest)\nlibrary(ggplot2)\n\ndf <- read.csv('hexsim_2016-05-08.csv')\ndf$pid <- factor(df$pid)\n\nstr(df)\n\n### sample word sets as a demo\n\nn_table <- with(df, tapply(pid, cond, FUN = function(x) length(unique(x))))\ncat(paste0('\\nTotal Subjects = ', sum(n_table)),'\\n')\nprint(cbind(n = n_table, aggregate(tax_sel ~ cond, mean, data = df))[-2])\ncat('\\n')\n\npar(mfrow = c(2,2))\nqqnorm(aggregate(tax_sel ~ base, mean, data = df)$tax_sel, main = 'Tax Responding by Word Set')\nqqline(aggregate(tax_sel ~ base, mean, data = df)$tax_sel)\n\nplot(density(aggregate(tax_sel ~ base, mean, data = df)$tax_sel), main = 'Taxonomic Responding Density')\n\nqqnorm(aggregate(rt ~ base, mean, data = df)$rt, main = 'RT by Word Set')\nqqline(aggregate(rt ~ base, mean, data = df)$rt)\n\nplot(density(aggregate(rt ~ base, mean, data = df)$rt), main = 'Word Set RT Density')\n\npar(mfrow = c(2,2))\nqqnorm(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel, main = 'Tax Responding by Word Set')\nqqline(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel)\n\nplot(density(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel), main = 'Taxonomic Responding Density')\n\nqqnorm(aggregate(rt ~ pid, mean, data = df)$rt, main = 'RT by Word Set')\nqqline(aggregate(rt ~ pid, mean, data = df)$rt)\n\nplot(density(aggregate(rt ~ pid, mean, data = df)$rt), main = 'Word Set RT Density')\n\ndf_neo <- subset(df, native_eng == 'yes') \n\nn_table_neo <- with(df_neo, tapply(pid, cond, FUN = function(x) length(unique(x))))\ncat(paste0('\\nTotal Subjects = ', sum(n_table_neo)),'\\n')\nprint(cbind(n = n_table_neo, aggregate(tax_sel ~ cond, mean, data = df_neo))[-2])\ncat('\\n')\n\npar(mfrow = c(2,2))\n\nqqnorm(aggregate(tax_sel ~ base, mean, data = df)$tax_sel, main = 'Tax by Word Set - ALL')\nqqline(aggregate(tax_sel ~ base, mean, data = df)$tax_sel)\nqqnorm(aggregate(tax_sel ~ base, mean, data = df_neo)$tax_sel, main = 'Tax by Word Set - NEO')\nqqline(aggregate(tax_sel ~ base, mean, data = df_neo)$tax_sel)\n\nplot(density(aggregate(tax_sel ~ base, mean, data = df)$tax_sel), main = 'Tax Density - ALL')\nplot(density(aggregate(tax_sel ~ base, mean, data = df_neo)$tax_sel), main = 'Tax Density - NEO')\n\nqqnorm(aggregate(rt ~ base, mean, data = df)$rt, main = 'RT by Word Set - ALL')\nqqline(aggregate(rt ~ base, mean, data = df)$rt)\nqqnorm(aggregate(rt ~ base, mean, data = df_neo)$rt, main = 'RT by Word Set - NEO')\nqqline(aggregate(rt ~ base, mean, data = df_neo)$rt)\n\nplot(density(aggregate(rt ~ base, mean, data = df)$rt), main = 'Word Set RT Density - ALL')\nplot(density(aggregate(rt ~ base, mean, data = df_neo)$rt), main = 'Word Set RT Density - NEO')\n\npar(mfrow = c(2,2))\n\nqqnorm(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel, main = 'Tax by Participant - ALL')\nqqline(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel)\nqqnorm(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel, main = 'Tax by Participant - NEO')\nqqline(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel)\n\nplot(density(aggregate(tax_sel ~ pid, mean, data = df)$tax_sel), main = 'Tax Density - ALL')\nplot(density(aggregate(tax_sel ~ pid, mean, data = df_neo)$tax_sel), main = 'Tax Density - NEO')\n\nqqnorm(aggregate(rt ~ pid, mean, data = df)$rt, main = 'RT by Word Set - ALL')\nqqline(aggregate(rt ~ pid, mean, data = df)$rt)\nqqnorm(aggregate(rt ~ pid, mean, data = df_neo)$rt, main = 'RT by Word Set - NEO')\nqqline(aggregate(rt ~ pid, mean, data = df_neo)$rt)\n\nplot(density(aggregate(rt ~ pid, mean, data = df)$rt), main = 'Word Set RT Density - ALL')\nplot(density(aggregate(rt ~ pid, mean, data = df_neo)$rt), main = 'Word Set RT Density - NEO')\n\ndf_temp <- aggregate(tax_sel ~ cond + base, mean, data = df_neo)\ndf_temp <- cbind(df_temp, rt_med = aggregate(rt ~ cond + base, median, data = df_neo)[,3])\n\npar(mfrow = c(2, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$tax_sel, main = paste0('Taxonomic Responding: ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$tax_sel)\n  plot(density(df_temp[df_temp$cond == condition,]$tax_sel), main = paste0('Taxonomic Density: ', condition))\n}\n\npar(mfrow = c(2, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$rt, main = paste0('Response Time (sec.): ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$rt)\n  plot(density(df_temp[df_temp$cond == condition,]$rt), main = paste0('RT Density: ', condition))\n}\n\ndf_temp <- aggregate(tax_sel ~ cond + pid, mean, data = df_neo)\ndf_temp <- cbind(df_temp, rt_med = aggregate(rt ~ cond + pid, median, data = df_neo)[,3])\n\npar(mfrow = c(2, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$tax_sel, main = paste0('Taxonomic Responding: ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$tax_sel)\n  plot(density(df_temp[df_temp$cond == condition,]$tax_sel), main = paste0('Taxonomic Density: ', condition))\n}\n\npar(mfrow = c(2, 2))\nfor (condition in levels(df_temp$cond)){\n  qqnorm(df_temp[df_temp$cond == condition,]$rt, main = paste0('Response Time (sec.): ', condition))\n  qqline(df_temp[df_temp$cond == condition,]$rt)\n  plot(density(df_temp[df_temp$cond == condition,]$rt), main = paste0('RT Density: ', condition))\n}\n\n(cont_mat <- contrasts(df_neo$cond))\n\nmodel <- glm(tax_sel ~ cond, data = df_neo, family = binomial)\nsummary(model)\n\ncont_mat <- t(matrix( c(0, 0, 1,-1, 0,   # tgoes vs tbase\n                        0, 0,-1, 0, 1,   # tbase vs trand\n                        1, 0,-1, 0, 0,   # tbase vs sbase\n                       -1, 1, 0, 0, 0),  # sbase vs srand\n                     dimnames = list(c('tgoes_tbase', 'tbase_trand', 'tbase_sbase', 'sbase_srand'), \n                                     rownames(contrasts(df_neo$cond))), \n                     ncol = 5, byrow = TRUE))\n\n(contrasts(df_neo$cond) <- cont_mat)\n\nmodel <- glm(tax_sel ~ cond + trial, data = df_neo, family = binomial)\nsummary(model)\n\nload()\n\nsummary(model_mer_min)\n\nrelgrad <- with(model_mer_min@optinfo$derivs,solve(Hessian,gradient))\n(max(abs(relgrad)))\n\nrelgrad <- with(model_mer_nop@optinfo$derivs, solve(Hessian,gradient))\n(max(abs(relgrad)))\n\nsummary(model_mer_max)\nrelgrad <- with(model_mer_max@optinfo$derivs,solve(Hessian,gradient))\n(max(abs(relgrad)))\n# # create appropriate dataset\ndf_temp <- aggregate(tax_sel ~ cond + base, mean, data = df_neo)\ndf_temp <- cbind(df_temp, rt_med = aggregate(rt ~ cond + base, median, data = df_neo)[,3])\n\n# # means of tax_sel and rt medians\niv_means <- colMeans(df_temp[,c('tax_sel', 'rt_med')])\ns <- cov(df_temp[,c('tax_sel', 'rt_med')])\n\n# # calculate generalized distance measure\ndf_temp$gen_dis <- apply(df_temp[,c('tax_sel', 'rt_med')], 1, function(x)\n  t(x - iv_means) %*% solve(s) %*% (x - iv_means))\n\n# # create labels for outliers\ndf_temp$word_labels <- as.character(paste0(df_temp$cond, ':', df_temp$base))\ndf_temp$word_labels_hi <- df_temp$word_labels\ndf_temp$word_labels_hi[order(df_temp$gen_dis)][1:(nrow(df_temp) - 5)] <- '' \n\nplot(qchisq(seq(length = nrow(df_temp), .0001, .999), df = 232),\n  sort(df_temp$gen_dis), main = 'Generalized Distance: Taxonomic Responding x RT',\n  xlab = expression(paste(chi^2, \" Quantile\")),\n  ylab = \"Generalized Distance\")\ntext(qchisq(seq(length = nrow(df_temp), .0001, .999), df = 232),\n  sort(df_temp$gen_dis), labels = df_temp$word_labels_hi[order(df_temp$gen_dis)],\n  pos = 2)\ntext(159.4707, 0.01383378, labels = df_temp$word_labels[order(df_temp$gen_dis)][1], \n  adj = c(0,-1.5)) \n\npaste0(df_neo$base['CROUTONS'])\n\nstr(df_neo)\n\nwhich(df_neo[df_neo$pid == 4742,]$base %in% c('CROUTONS', 'FLY', 'TOOTHBRUSH', 'PACKAGE', 'FIELD', 'ROBBERY'))\n\n\n\ndf_clust <- hclust(dist(df[,2:8]), method = 'complete')\nplot(df_clust, cex = .75, hang = -1)\ndf$group <- cutree(df_clust, k = 3)",
+			"file": "/C/Users/garre/Downloads/hex_sim+stats+III.r",
+			"file_size": 7650,
+			"file_write_time": 131073169744519202,
+			"settings":
+			{
+				"buffer_size": 7781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\nlibrary(ggplot2)\nlibrary(dplyr)\nlibrary(animation)\n\nsetwd('C:/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/5.6.16')\ndf <- read.csv('hexsim_2016-05-08.csv')\nif(!dir.exists(\"gifs\")) {dir.create(\"gifs\")}\nsetwd(\"gifs\")\n\nn_table <- with(df, tapply(pid, cond, FUN = function(x) length(unique(x))))\n\nsaveGIF({\n\n for (i in 1:59) {\n    #title\n    plot_title <- paste0('Taxonomic Responding on Trial: ', as.character(i))\n    #data\n    trial_data <- filter(df, trial < i + 1)\n    trial_data <- aggregate(tax_sel ~ cond + pid, mean, data = trial_data)\n    trial_data$binom_diff <- # diff from chance\n      unlist(lapply(trial_data$tax_sel, function(x) {binom.test((x * i), i, .5)$p.value}))\n    trial_data$binom_diff[trial_data$binom_diff < .0001] <- .0001\n    trial_data$sig <- ifelse(trial_data$binom_diff < .05, 1, 2)\n\n\n    cond_plot <- ggplot(trial_data, aes(x = as.factor(cond), y = tax_sel)) +\n      geom_boxplot(outlier.shape = NA) +\n      geom_point(position = position_jitter(width = .3, height = 0), aes(color = sig)) +\n      stat_summary(fun.y = mean, geom = 'point', shape = 18, color = 'black', \n        size = 4, show.legend = FALSE) + ggtitle(plot_title) +\n      theme(plot.title = element_text(size=26, vjust=2),\n        axis.title.y = element_text(size=22, margin = margin(0,10,0,0)),\n        axis.text.y = element_text(size=18, color = 'black'),\n        axis.title.x = element_text(size=22, margin = margin(10,0,0,0)),\n        axis.text.x = element_text(size = 18, color = 'black'), \n        legend.position = \"none\") + \n      scale_y_continuous(limits=c(0,1.001), breaks=seq(0, 1, 0.1), \n        name = 'Proportion Taxonomic') + \n      scale_x_discrete(name = 'Condition', \n        limits = c('sextet_base','sextet_rand',\n          'triad_base','triad_rand', 'triad_goes'), \n        labels = c('Base\\n5 Targets', 'No Base\\n6 Targets',\n          'Base\\n2 Targets', 'No Base\\n3 Targets', 'Goes\\nWith')) + \n      coord_cartesian(ylim = c(0,1))\n\n    print(cond_plot)\n  }\n}, movie.name = 'hex_sim_data_box.gif', interval = .3, ani.width = 700, ani.height = 600)\n\n\n",
+			"file": "gif_code.r",
+			"file_size": 2130,
+			"file_write_time": 131070339431360262,
+			"settings":
+			{
+				"buffer_size": 2078,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-Box/support/R-Box.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/R.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "ssr",
+		"selected_items":
+		[
+			[
+				"ssr",
+				"Set Syntax: R"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"pakcage in",
+				"Package Control: Install Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"replr",
+				"SublimeREPL: R"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"sr",
+				"SublimeREPL: R"
+			],
+			[
+				"ssm",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"choose",
+				"SendText+: Choose Program"
+			],
+			[
+				"sendText",
+				"SendText+: Choose Program"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"colors",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"choo",
+				"SendText+: Choose Program"
+			],
+			[
+				"send",
+				"SendText+: Choose Program"
+			],
+			[
+				"repol r",
+				"SublimeREPL: MozRepl"
+			],
+			[
+				"REPL R",
+				"SublimeREPL: R"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"repl p",
+				"SublimeREPL: Python"
+			],
+			[
+				"r",
+				"Set Syntax: R"
+			],
+			[
+				"SSR",
+				"Set Syntax: R"
+			],
+			[
+				"rpel r",
+				"SublimeREPL: Perl"
+			],
+			[
+				"repl ",
+				"SublimeREPL: Python"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"ssr e",
+				"Set Syntax: R Extended"
+			],
+			[
+				"rbo",
+				"R-Box: Choose Program"
+			],
+			[
+				"ssre",
+				"Set Syntax: R Extended"
+			],
+			[
+				"ss r e",
+				"Set Syntax: R Extended"
+			],
+			[
+				"rb",
+				"R-Box: Choose Program"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"rr",
+				"SublimeREPL: R"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"replp",
+				"SublimeREPL: Python"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 928.0
+	},
+	"console":
+	{
+		"height": 110.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data"
+	],
+	"file_history":
+	[
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/hex_sim_analysis.r",
+		"/C/Users/garre/Dropbox/aa projects/conflict triads/conflict_triads_analysis_final.r",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/gif_code.r",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Gadgets/@Resources/Settings/CommonSettings.inc",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/test.r",
+		"/C/Users/garre/Downloads/out.txt",
+		"/C/Users/garre/OneDrive/papers/prelim/them-tax/them.tax.todo",
+		"/C/Users/garre/Dropbox/aa projects/conflict triads/conflict triads data MASTER.txt",
+		"/C/Users/garre/Dropbox/aa projects/bing_parking/ticket_data.csv",
+		"/C/Users/garre/Dropbox/aa projects/bing_parking/ticket_data.txt",
+		"/C/Users/garre/Dropbox/desktop/tickets.txt",
+		"/C/Users/garre/Dropbox/code/matlab/DIVA/DIVA.m",
+		"/C/Users/garre/Dropbox/aa projects/DIVA/utils.r",
+		"/C/Users/garre/Dropbox/code/matlab/DIVA/utils/responserule.m",
+		"/C/Users/garre/Dropbox/code/matlab/DIVA/utils/FORWARDPASS.m",
+		"/C/Users/garre/Dropbox/aa projects/DIVA/init.r",
+		"/C/Users/garre/Dropbox/aa classes/stats III/stats3_homework_six.r",
+		"/C/Users/garre/Dropbox/aa classes/stats III/stats3_homework7.r",
+		"/C/Users/garre/AppData/Local/Temp/Temp1_hw.zip/hw/Midterm1.R",
+		"/C/Users/garre/Dropbox/aa classes/stats III/tsats3_homework7.r",
+		"/C/Users/garre/Dropbox/aa classes/stats III/stats3_homework_five.r",
+		"/C/users/garre/appdata/local/temp/sublime-sftp-browse-1457812438/bingweb/u0/users/9/ghonke1/public_html/research.html",
+		"/C/Users/garre/AppData/Local/Temp/scp03329/media/gob/tv/breaking bad/Breaking Bad Seasons 1-2/Breaking Bad Episode Guide.pdf",
+		"/C/Users/garre/OneDrive/papers/prelim/feature independence/bayes reading list.todo",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Pulsar 1.5/Top Processes/TOP5-RAM/TOP5-RAM.ini",
+		"/C/Users/garre/Downloads/BeerSmith.v2.2.12-DVT/dvt.nfo",
+		"/C/Users/garre/Downloads/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/C/Users/garre/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TA1YISZP/Homework4_BaseGraphics_Solutions.R",
+		"/C/Users/garre/Dropbox/aa classes/psych111/psych111_test1.r",
+		"/C/Users/garre/Dropbox/aa classes/psych111/helper_funcs.r",
+		"/C/Users/garre/Dropbox/SLOED & THROED/_songs.todo",
+		"/C/Users/garre/Dropbox/aa projects/switchrite/data/switchrite_analysis.r",
+		"/C/Users/garre/Dropbox/aa classes/stats III/stats3_homework_four.r",
+		"/C/Users/garre/Dropbox/aa projects/switchrite/switchrite.py",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/SendTextPlus/SendText+.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/SendText+.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
+		"/C/Users/garre/AppData/Local/Temp/scp05215/u0/users/9/ghonke1/public_html/js/functions.js",
+		"/C/Users/garre/AppData/Local/Temp/scp25319/u0/users/9/ghonke1/public_html/js/functions.js",
+		"/C/Users/garre/AppData/Local/Temp/scp05545/u0/users/9/ghonke1/public_html/cgi-bin/log_visitor.cgi",
+		"/C/Users/garre/AppData/Local/Temp/scp22435/u0/users/9/ghonke1/public_html/cgi-bin/log_visitor.cgi",
+		"/C/users/garre/appdata/local/temp/sublime-sftp-browse-1456357114/bingweb/u0/users/9/ghonke1/public_html/cv.html",
+		"/C/users/garre/appdata/local/temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/public_html/index.html",
+		"/C/Users/garre/AppData/Local/Temp/scp36916/u0/users/9/ghonke1/db/visitors.txt",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/public_html/functions.js",
+		"/C/Users/garre/Dropbox/desktop/log_visitor.cgi",
+		"/C/Users/garre/Dropbox/desktop/printdb.py",
+		"/C/Users/garre/Dropbox/desktop/initdb.py",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/initdb.py",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/printdb.py",
+		"/C/Users/garre/Dropbox/desktop/printdb.py.url",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/public_html/file_1.js",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/public_html/file_3.js",
+		"/C/Users/garre/AppData/Local/Temp/sublime-sftp-browse-1456357134/bingweb/u0/users/9/ghonke1/public_html/file_2.js",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/garre/Dropbox/aa classes/stats III/Homework3_ddply_lists_bootstrapping.R",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/garre/Dropbox/SLOED & THROED/_songs.to.do",
+		"/C/Users/garre/Dropbox/SLOED & THROED/_songs.to",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/hex_sim.py",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/D/music files/mike jones - running tha game.txt",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Gadgets/Network Meter/Network Meter.ini",
+		"/C/Users/garre/AppData/Local/Temp/scp27580/media/gob/complete/things for garrett to upload/Mike Jones - 2008 - Running Tha Game [FLAC]/Running Tha Game.log",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/Print to HTML.sublime-settings",
+		"/C/Users/garre/Dropbox/aa classes/stats III/homework_one.txt",
+		"/C/Users/garre/Dropbox/aa classes/stats III/homework_two.txt",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/choootooo/data/ct_viz_code.r",
+		"/C/Users/garre/Documents/Rainmeter/Skins/refresh/4 Light BG.ini",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Gadgets/All CPU Meter/All CPU Meter.ini",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/garre/Dropbox/aa projects/materials/SORT/yr 2 data/prsort.R",
+		"/C/Users/garre/Dropbox/aa projects/materials/SORT/year 3/year 3 data/psy3helperfuncs.r",
+		"/C/Users/garre/Dropbox/aa projects/materials/SORT/year 3/year 3 data/psy3analysis.r",
+		"/C/Users/garre/AppData/Roaming/Sublime Text 3/Packages/User/R.sublime-build",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Pulsar 1.5/Top Processes/TOP5-CPU/TOP5-CPU.ini",
+		"/C/Users/garre/Documents/Rainmeter/Skins/refresh/4 Dark BG.ini",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/triad_base.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/triad_rand.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/sextet_base.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/sextet_rand.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/misc.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/hex_sim/thing.csv",
+		"/C/Users/garre/AppData/Local/Temp/scp58128/var/www/html/index.html",
+		"/C/Users/garre/AppData/Local/Temp/scp56121/var/www/html/labmembers.html",
+		"/C/Users/garre/Dropbox/desktop/creditsfigure.py",
+		"/C/Users/garre/AppData/Local/Temp/scp57478/var/www/html/images/LaRC Logo.png",
+		"/C/Users/garre/AppData/Local/Temp/scp56882/var/www/html/images/binglogo.gif",
+		"/C/Users/garre/AppData/Local/Temp/scp48542/etc/hosts.allow",
+		"/C/Users/garre/AppData/Local/Temp/scp33513/var/www/html/checker/js/custom.js",
+		"/C/Users/garre/AppData/Local/Temp/scp33531/var/www/html/checker/js/jquery-1.11.1.min.js",
+		"/C/Users/garre/AppData/Local/Temp/scp32433/var/www/html/checker/php/authenticate.php",
+		"/C/Users/garre/AppData/Local/Temp/scp31432/var/www/html/checker/php/getdata.php",
+		"/C/Users/garre/AppData/Local/Temp/scp31804/var/www/html/checker/php/update.php",
+		"/C/Users/garre/AppData/Local/Temp/scp16094/home/kurtz/db/python/doubles.py",
+		"/C/Users/garre/AppData/Local/Temp/scp15937/home/kurtz/db/python/inconsistent.py",
+		"/C/Users/garre/AppData/Local/Temp/scp14374/home/kurtz/db/python/phpupdate.py",
+		"/C/Users/garre/AppData/Local/Temp/scp12492/home/kurtz/db/python/report.py",
+		"/C/Users/garre/AppData/Local/Temp/scp55388/home/kurtz/db/python/updatesona.py",
+		"/C/Users/garre/AppData/Local/Temp/scp49250/home/kurtz/db/python/updatepostit.py",
+		"/C/Users/garre/AppData/Local/Temp/scp44729/var/www/cgi-bin/info.py",
+		"/C/Users/garre/AppData/Local/Temp/scp43932/var/www/html/images/bird_larc.jpg",
+		"/C/Users/garre/AppData/Local/Temp/scp43219/var/www/html/images/bird_larc2.jpg",
+		"/C/Users/garre/AppData/Local/Temp/scp43409/var/www/html/images/bird_larc3.jpg",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/instructs.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/choootooo.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/triad_base.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/sextet_base.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/misc.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/sextet_rand.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/triad_rand.py",
+		"/C/Users/garre/AppData/Local/Temp/scp41378/var/www/html/checker/todo",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/fall 2015/instructs.py",
+		"/C/Users/garre/Documents/Rainmeter/Skins/illustro Gadgets/Drives Meter/Drives Meter.ini",
+		"/C/Users/garre/Dropbox/aa projects/edutrans/sortAlign/sortAlign/EXP/digisort/sort.py",
+		"/C/Users/garre/Dropbox/aa projects/edutrans/sortAlign/sortAlign/EXP/digisort/sortAlign.py",
+		"/C/Users/garre/Dropbox/aa projects/edutrans/sortAlign/sortAlign/EXP/digisort/getprinciple.py",
+		"/C/Users/garre/Dropbox/aa projects/edutrans/sortAlign/sortAlign/EXP/trnprob/trnprob.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/spring 2016/circle_test.py",
+		"/C/Users/garre/Dropbox/aa projects/choootooo/data/ct_viz_code.r"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 300.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"just",
+			"\\",
+			"box",
+			"\\",
+			"barplot\n",
+			"')\n",
+			"\"",
+			"\\",
+			" ",
+			"print",
+			"\\",
+			"gen_dis_df",
+			" ",
+			"\\",
+			"output",
+			"\\",
+			"]')\n",
+			"\\",
+			"tab",
+			"\\",
+			"exter",
+			"by Mike Jones",
+			"$0.89",
+			"[Explicit]",
+			"\\",
+			"image",
+			"path",
+			"button",
+			"group",
+			"image",
+			".png",
+			"button",
+			"setting",
+			"\\",
+			"network",
+			"colorText",
+			"colorBar",
+			"CPU USAGE",
+			"title",
+			"string",
+			"len",
+			"length",
+			"trial_instruct",
+			"fillcolor",
+			"set",
+			"box",
+			"com",
+			"com)",
+			"drives meter",
+			"drives",
+			"network",
+			"tem",
+			"\\",
+			"classify",
+			"datafull",
+			"outlier",
+			"labels",
+			"\\",
+			"jitter",
+			"var_18",
+			"outlier",
+			"var_19",
+			"var_8",
+			"4221",
+			"\\",
+			"/",
+			"RT",
+			"lsmeans",
+			"0",
+			"1",
+			"0",
+			"\\",
+			"\\Users\\garre\\Dropbox\\desktop\\AnalysisRedux_",
+			"\\",
+			"\\Microsoft\\Windows\\INetCache\\Content.Outlook\\TA1YISZP\\AnalysisRedux_.zip\\AnalysisRedux_')",
+			"\\",
+			"C:\\Users\\garre\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Outlook\\TA1YISZP\\AnalysisRedux_.zip\\AnalysisRedux_",
+			"\\",
+			"depend",
+			"font",
+			"overlay",
+			"CLASSIFY",
+			"SWITCH",
+			"tab",
+			"33",
+			"background",
+			"tint",
+			"33",
+			"code",
+			"backgroun"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//",
+			"",
+			"/",
+			",",
+			"/",
+			"gen_dis",
+			",",
+			"/",
+			"//",
+			"",
+			"/",
+			"line",
+			"mat",
+			"/",
+			"inference",
+			"mean_data",
+			"/",
+			"test_acc",
+			"trial_attempts",
+			"//",
+			"0,",
+			"1,",
+			"0,",
+			"\\\\",
+			"classify",
+			"CLASSIFY",
+			"0",
+			"",
+			"0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hex_sim_analysis.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/garre/Dropbox/aa projects/choootooo/choootooo/data/ct_viz_code.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4247,
+								4247
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hex_sim+stats+III.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3102,
+								3066
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1904.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/garre/Downloads/hex_sim+stats+III.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7781,
+								7758
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "gif_code.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2078,
+								2
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 117.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.49770277386,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 611.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 250.0
+	},
+	"pinned_build_system": "",
+	"project": "hex_sim.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DIVA\\utils.r"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\garre\\Dropbox\\aa classes\\stats III\\statsIII.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 100.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
