@@ -5,7 +5,7 @@ library(dplyr)
 library(animation)
 
 setwd('C:/Users/garre/Dropbox/aa projects/choootooo/hex_sim/data/5.6.16')
-df <- read.csv('hexsim_2016-05-06.csv')
+df <- read.csv('hexsim_2016-05-08.csv')
 if(!dir.exists("gifs")) {dir.create("gifs")}
 setwd("gifs")
 
